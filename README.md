@@ -5,6 +5,10 @@ Muhammad Luthfi Fahlevi - 1906293215 - Kelas A
 
 ---
 
+[Home](https://luthfifahlevi.github.io/os211/ "Home Page") | [Log](https://luthfifahlevi.github.io/os211/TXT/mylog.txt) | [Rank](https://luthfifahlevi.github.io/os211/TXT/myrank.txt) | [Github](https://github.com/luthfifahlevi/os211/)
+
+---
+
 # List Weekly Task
 [Week 01](/os211/W01) <br>
 Week 02 <br>
