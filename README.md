@@ -13,7 +13,7 @@ Muhammad Luthfi Fahlevi - 1906293215 - Kelas A
 [Week 01](https://luthfifahlevi.github.io/os211/W01) <br>
 [Week 02](https://luthfifahlevi.github.io/os211/W02) <br>
 [Week 03](https://luthfifahlevi.github.io/os211/W03) <br>
-Week 04 <br>
+[Week 04](https://luthfifahlevi.github.io/os211/W04) <br>
 Week 05 <br>
 Week 06 <br>
 Week 07 <br>
